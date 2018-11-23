@@ -15,7 +15,7 @@ Only the website look is not the important thing to consider. Moreover, there ar
 
 Navigation: it should be intuitive and effortless to use as it let your customer to explore and move through your website efficiently. You will lose your business and them once they will feel irritated and confused using them. It’s as simple as that. Whenever a user visits your website, it should be clear to him/ her how to explore the website. It should be well organized with clear site’s menu options. They should understand the links to follow in order to find what they’re looking for. 
 
-Let us make you understand the concept better with the help of an example. Suppose, you have an e- commerce website in which you are selling clothes. So, to make the search easy, include links to the different types of clothing you sell in a drop-down menu.  You can even use an anchored menu with links and product categories in case you are focusing subscription based service. This method is more efficient than others. No matter if you use a drop-down menu or anchored navigation bars, the main motive should be to make the customer’s search easy, hassle- free and relaxing.
+Let us make you understand the concept better with the help of an example. Suppose, you have an [e-commerce website](https://www.janbaskdigitaldesign.com/e-commerce-development/) in which you are selling clothes. So, to make the search easy, include links to the different types of clothing you sell in a drop-down menu.  You can even use an anchored menu with links and product categories in case you are focusing subscription based service. This method is more efficient than others. No matter if you use a drop-down menu or anchored navigation bars, the main motive should be to make the customer’s search easy, hassle- free and relaxing.
 ### 3). Content Organization:
 
 None of the customer likes to read the whole book like content in any website. It looks boring, unattractive and somewhat people lose interest only after a look over it. So it’s better to plan the content structure. Customers look for snippets of information not the chapters. The website’s headlines, product categories, and announcements should be easy to see and even easier to read. To make the search easier, divide the content into blocks. Arrange best-selling products and new sales announcements closer to the top.
@@ -25,7 +25,7 @@ In other words, arrange the contents according to their relevancy. Put the most 
 
 Gone are the days, when people used to use desktop to play online games, surf the web etc. now most of the people, you won’t believe but about 80% of the population uses their smart- phones to reach the web. So keeping this point in mind, it is a necessity to keep your website mobile friendly. In today’s world, customers measure and judge your site’s experience with this only. Your website should not only adjust to any screen size but also look good and function properly on any device.
 
-The page loading topic is also an important point to be considered while designing the website. No user waits if your website takes more than 3-4 sec to load. If it takes much time than mentioned they will simply leave your page and thus don’t even care to remember you. This feature does not only combat accessibility but also decides your search engine rank. 
+The page loading topic is also an important point to be considered while [designing the website](https://www.janbaskdigitaldesign.com/blogs/web-design-vs-web-development/). No user waits if your website takes more than 3-4 sec to load. If it takes much time than mentioned they will simply leave your page and thus don’t even care to remember you. This feature does not only combat accessibility but also decides your search engine rank. 
 Make these below mentioned changes for a better performance of the website:
 
 - Minimize wait time
@@ -36,7 +36,7 @@ Make these below mentioned changes for a better performance of the website:
 These changes will not only enhance the overall website performance but also will lead to better customer experience.
 
 #### Wrapping up
-So, these were some of the methods to know how web design can improve your website’s customer experience. We hope you guys liked reading them. In case of any feedback, questions or confusions, comment in the comment section below. 
+So, these were some of the methods to know how [web design](https://www.janbaskdigitaldesign.com) can improve your website’s customer experience. We hope you guys liked reading them. In case of any feedback, questions or confusions, comment in the comment section below. 
 
 
 
